@@ -1,4 +1,4 @@
-### 翻译zabbix 文档
+###                                                    翻译zabbix 公共触发器文档
 
 ~~~ 
 1、SNMP没有采集到数据 - No SNMP data collection
@@ -55,3 +55,4 @@ Load average is too high (per CPU load over {$LOAD_AVG_PER_CPU.MAX.WARN} for 5m)
 {#SNMPVALUE}: Temperature is above warning threshold: >{$TEMP_WARN:""}
 
 ~~~
+
